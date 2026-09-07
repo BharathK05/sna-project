@@ -9,9 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-# Pipeline outputs / caches
-cache/
-output/
-
 # Local Claude Code settings
 .claude/
